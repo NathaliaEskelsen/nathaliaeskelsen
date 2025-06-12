@@ -31,9 +31,9 @@ Git, GitHub, Crystal Reports, Visual Studio, Azure DevOps, MS Teams, Visual Sour
 
 ## 🐾 About Me
 
-- Brazilian-Irish 🇧🇷🇮🇪 based in Dublin  
+- Brazilian-Irish based in Dublin  
 - Queer & cat-obsessed 🐱 
-- Sharing content on [TikTok](https://www.tiktok.com/@nathaliaeskelsen)
+- Part time content creator on [TikTok](https://www.tiktok.com/@nathaliaeskelsen)
 
 ---
 
