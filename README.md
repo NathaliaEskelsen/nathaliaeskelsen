@@ -10,4 +10,4 @@ Lover of cats 🐱, code 💻, and queer girl content 📱🏳️‍🌈
 
 ## 🔗 Let's connect:
 - TikTok: [@nathaliaeskelsen](https://www.tiktok.com/@nathaliaeskelsen)
-- LinkedIn: https://www.linkedin.com/in/nathaliaeskelsen/
+- LinkedIn: [@nathaliaeskelsen](https://www.linkedin.com/in/nathaliaeskelsen/)
