@@ -9,37 +9,11 @@
 ## 🛠️ Tech Stack & Tools
 
 **Languages & Frameworks:**  
-C#, VB.NET, SQL, HTML, CSS, JavaScript (learning), Python (learning)
+C# ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white),  
+VB.NET ![VB.NET](https://img.shields.io/badge/-VB.NET-5C2D91?style=flat&logo=visual-basic&logoColor=white),  
+SQL ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white),  
+HTML, CSS, JavaScript (learning), Python (learning)
 
 **Tools & Technologies:**  
-Git, GitHub, Crystal Reports, Visual Studio, Azure DevOps, MS Teams, Visual Source Safe, Automate
-
----
-
-## 📌 Recently Completed
-
-- REST APIs with .NET Core (including testing in Postman)  
-  [API Project Repo](https://github.com/nathaliaeskelsen/rest-api-dotnet-core) 
-
----
-
-## 📚 Currently Learning
-
-- React & modern frontend workflows  
-- Python scripting for automation & data tasks
-
----
-
-## 🐾 About Me
-
-- Brazilian-Irish based in Dublin  
-- Queer & cat-obsessed 🐱 
-- Part time content creator on [TikTok](https://www.tiktok.com/@nathaliaeskelsen)
-
----
-
-## 🔗 Let’s Connect
-
-- [TikTok: @nathaliaeskelsen](https://www.tiktok.com/@nathaliaeskelsen)  
-- [LinkedIn: Nathalia Eskelsen](https://www.linkedin.com/in/nathaliaeskelsen/)  
-- [GitHub](https://github.com/nathaliaeskelsen)
+Git ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white),  
+GitHub ![GitHub](https://img.shields.io/badge/-G)
