@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hey, I'm Nathalia! 👋🌈
 
-<!--
-**NathaliaEskelsen/nathaliaeskelsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Brazilian-Irish dev based in Dublin, Ireland  
+Lover of cats 🐱, code 💻, and queer girl content 📱🏳️‍🌈
 
-Here are some ideas to get you started:
+## 🛠 Currently Learning:
+- .NET Web APIs (C#)
+- Frontend basics (HTML/CSS/JavaScript)
+- React and Python (coming soon!)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Let's connect:
+- TikTok: [@nathaliaeskelsen](https://www.tiktok.com/@nathaliaeskelsen)
+- LinkedIn: [https://www.linkedin.com/in/nathaliaeskelsen/]
