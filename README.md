@@ -9,20 +9,10 @@
 ## 🛠️ Tech Stack & Tools
 
 **Languages & Frameworks:**  
-C# ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white),  
-VB.NET ![VB.NET](https://img.shields.io/badge/-VB.NET-5C2D91?style=flat&logo=visual-basic&logoColor=white),  
-SQL ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white),  
-HTML, CSS, JavaScript (learning), Python (learning)
+C#, VB.NET, SQL, HTML, CSS, JavaScript (learning), Python (learning)
 
 **Tools & Technologies:**  
-Git ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white),  
-GitHub ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white),  
-Crystal Reports ![Crystal Reports](https://img.shields.io/badge/-Crystal_Reports-0078D7?style=flat&logo=crystal-reports&logoColor=white),  
-Visual Studio ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white),  
-Azure DevOps ![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-0078D7?style=flat&logo=microsoft-azure-devops&logoColor=white),  
-MS Teams ![Microsoft Teams](https://img.shields.io/badge/-Microsoft_Teams-6264A7?style=flat&logo=microsoft-teams&logoColor=white),  
-Visual Source Safe ![Visual Source Safe](https://img.shields.io/badge/-Visual_Source_Safe-0078D7?style=flat&logo=visual-studio-code&logoColor=white),  
-Automate
+Git, GitHub, Crystal Reports, Visual Studio, Azure DevOps, MS Teams, Visual Source Safe, Automate
 
 ---
 
