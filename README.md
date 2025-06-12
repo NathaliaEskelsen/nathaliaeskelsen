@@ -19,6 +19,7 @@ Git, GitHub, Crystal Reports, Visual Studio, Azure DevOps, MS Teams, Visual Sour
 ## 📌 Recently Completed
 
 - REST APIs with .NET Core (including testing in Postman)  
+  [API Project Repo](https://github.com/nathaliaeskelsen/rest-api-dotnet-core) 
 
 ---
 
