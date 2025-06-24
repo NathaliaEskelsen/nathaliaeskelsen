@@ -9,7 +9,7 @@
 ## 🛠️ Tech Stack & Tools
 
 **Languages & Frameworks:**  
-C#, VB.NET, SQL, HTML, CSS, JavaScript (learning), Python (learning)
+C#, VB.NET, SQL, HTML, CSS, JavaScript, React (learning), Python (learning)
 
 **Tools & Technologies:**  
 Git, GitHub, Crystal Reports, Visual Studio, Azure DevOps, MS Teams, Visual Source Safe, Automate
