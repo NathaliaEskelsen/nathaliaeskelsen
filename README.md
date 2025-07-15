@@ -1,7 +1,7 @@
 # Hi, I'm Nathalia 👋
 
 💻 Software developer with 5+ years of experience working with C#, VB.NET, and SQL.  
-🌱 Currently expanding into frontend development and Python scripting.  
+🌱 Currently expanding into frontend development  
 ✨ Passionate about clean code, creative solutions, and continuous learning.
 
 ---
