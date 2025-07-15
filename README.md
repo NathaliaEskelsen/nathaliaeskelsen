@@ -51,8 +51,8 @@ Git, GitHub, Visual Studio, Azure DevOps, Postman, Crystal Reports, Automate, MS
 
 ## 🐾 About Me
 
-- Brazilian-Irish based in Dublin 🇧🇷🇮🇪  
-- Queer & cat-obsessed 🐱 Sammy and Sky keep me on my toes  
+- Brazilian-Irish based in Dublin, Ireland
+- Queer & cat-obsessed 🐱  
 - Part-time content creator sharing funny & relatable queer content  
   🎥 [TikTok: @nathaliaeskelsen](https://www.tiktok.com/@nathaliaeskelsen)
 
